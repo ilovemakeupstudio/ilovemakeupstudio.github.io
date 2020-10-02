@@ -13,16 +13,16 @@
 }
 
 #bloque2{
-    height: 800px;
+    height: 1400px;
     background-color: #ffffff;
     position: relative;
+    
 }
 
 #bloque3{
-    height: 300px;
+    height: 1000px;
     background-color: #c71c9c;
     position: relative;
-    border-bottom-left-radius: 100px;
     color: #ffffff;
 }
 
@@ -54,7 +54,7 @@
     border-radius: 10px;
     color: #ffffff;
     font-size: 15px;
-    background-color: rgb(230, 23, 230);
+    background-color: rgb(241, 209, 234);
     opacity: 0.8;
     right: 0;
     left: 0;
@@ -80,15 +80,14 @@
     top: 80px;
     margin: auto;
     width: 80px;
-    border-color: purple;
+    border-color: rgb(126, 5, 126);
  
 }
 
-
 .articulo1Bloque2{
     position: absolute;
-    background-color: aqua;
-    width: 290px;
+    background-color:rgb(126, 5, 126);
+    width: 300px;
     height: 340px;
     left: 0;
     right: 0;
@@ -97,7 +96,7 @@
     box-shadow: 1px 1px 0px purple;
 }
 
-.img1Bloque2{
+.img1Articulo1{
     position: absolute;
     width: 250px;
     height: 171px;
@@ -109,7 +108,7 @@
 
 }
 
-.texto2Bloque2{
+.titulo1Articulo1{
     position: absolute;
     right: 0;
     left: 0;
@@ -117,7 +116,7 @@
     text-align: center;
 }
 
-.texto3Bloque2{
+.texto1Articulo1{
     position: absolute;
     right: 5%;
     left: 5%;
@@ -125,11 +124,32 @@
     text-align: center;
 }
 
-/*Bloque3*/
-
-.novedades{
-    text-align: center;
+.articulo2Bloque2{
+    position: absolute;
+    background-color: rgb(126, 5, 126);
+    width: 300px;
+    height: 340px;
+    left: 0;
+    right: 0;
+    top: 520px;
+    margin: auto;
+    box-shadow: 1px 1px 0px purple;
 }
+
+.articulo3Bloque2{
+    position: absolute;
+    background-color: rgb(126, 5, 126);
+    width: 300px;
+    height: 340px;
+    left: 0;
+    right: 0;
+    top: 910px;
+    margin: auto;
+    box-shadow: 1px 1px 0px purple;
+}
+
+
+/*Bloque3*/
 
 
 
