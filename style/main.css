@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*---Identificadores---*/
+
+#cabecera{
+    background-color: #ffffff;
+    position: relative;
+    height: 145px;
+}
+
+
+#pieDePagina{
+    background-color: #000000;
+    position: relative;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px ;
+}
+
+#bloqueSocial{
+
+    height: 40px;
+    position: relative;
+    width: 100%;
+    top: 20px;
+
+}
+
+
+
+/*---Clases---*/
+
+/*bloque1*/
+.logo{
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+
+
+/*PieDePagina*/
+.textoPieDePagina{
+    position: absolute;
+    color: #ffffff;
+    top: 20px;
+    left: 5%;
+    right: 5%;
+    text-align: center;
+}
+
+.imgfacebook{
+    position: absolute;
+    top: 5px;
+    left: 20%;
+    margin: auto;
+    width: 50px;
+    height: 30px;
+}
+
+.imginstagram{
+    position: absolute;
+    top: 5px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 50px;
+    height: 30px;
+}
+
+.imgwhatsapp{
+    position: absolute;
+    top: 0;
+    right: 20%;
+    top: 5px;
+    margin: auto;
+    width: 50px;
+    height: 30px;
+}

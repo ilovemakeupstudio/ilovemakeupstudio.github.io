@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*---Identificadores---*/
+
+#bloque1{
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    position: relative;
+}
+
+#bloque2{
+    height: 800px;
+    background-color: #ffffff;
+    position: relative;
+}
+
+#bloque3{
+    height: 300px;
+    background-color: #c71c9c;
+    position: relative;
+    border-bottom-left-radius: 100px;
+    color: #ffffff;
+}
+
+
+
+/*---clases---*/
+
+/*Bloque1*/
+.img1Bloque1{
+    width: 100%;
+    height: 200%;
+}
+
+.texto1Bloque1{
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 20%;
+    font-weight: 900;
+    z-index: 100;
+}
+
+.boton1Bloque1{
+    position: absolute;
+    padding: 12px;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 15px;
+    background-color: rgb(230, 23, 230);
+    opacity: 0.8;
+    right: 0;
+    left: 0;
+    top: 60%;
+    margin: auto;
+    z-index: 200;
+}
+
+/*Bloque2*/
+.texto1Bloque2{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 40px;
+    text-align: center;
+
+}
+
+.linea1Bloque2{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 80px;
+    margin: auto;
+    width: 80px;
+    border-color: purple;
+ 
+}
+
+.img1Bloque2{
+    position: absolute;
+    width: 250px;
+    height: 171px;
+    border-radius: 10px;
+    left: 0;
+    right: 0;
+    top: 130px;
+    margin: auto;
+
+}
+
+.texto2Bloque2{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 310px;
+    text-align: center;
+}
+
+.texto3Bloque2{
+    position: absolute;
+    right: 5%;
+    left: 5%;
+    top: 350px;
+    text-align: center;
+}
+
+/*Bloque3*/
+
+.novedades{
+    text-align: center;
+}
+
+
+
+/*seurdo clase*/
+
+.boton1Bloque1:hover{
+    background-color: #ffffff;
+    color: rgb(230, 23, 230);
+}
