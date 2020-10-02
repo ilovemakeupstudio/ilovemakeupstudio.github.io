@@ -84,6 +84,19 @@
  
 }
 
+
+.articulo1Bloque2{
+    position: absolute;
+    background-color: aqua;
+    width: 290px;
+    height: 340px;
+    left: 0;
+    right: 0;
+    top: 130px;
+    margin: auto;
+    box-shadow: 1px 1px 0px purple;
+}
+
 .img1Bloque2{
     position: absolute;
     width: 250px;
@@ -91,7 +104,7 @@
     border-radius: 10px;
     left: 0;
     right: 0;
-    top: 130px;
+    top: 10px;
     margin: auto;
 
 }
@@ -100,7 +113,7 @@
     position: absolute;
     right: 0;
     left: 0;
-    top: 310px;
+    top: 190px;
     text-align: center;
 }
 
@@ -108,7 +121,7 @@
     position: absolute;
     right: 5%;
     left: 5%;
-    top: 350px;
+    top: 230px;
     text-align: center;
 }
 
