@@ -54,11 +54,12 @@
     border-radius: 10px;
     color: #ffffff;
     font-size: 15px;
-    background-color: rgb(241, 209, 234);
+    background-color:rgba(194, 10, 245, 0.267);
     opacity: 0.8;
     right: 0;
     left: 0;
     top: 60%;
+    border: 1px solid #ffffff;
     margin: auto;
     z-index: 200;
 }
@@ -86,14 +87,15 @@
 
 .articulo1Bloque2{
     position: absolute;
-    background-color:rgb(126, 5, 126);
+    background-color:rgba(194, 10, 245, 0.041);
+    border-radius: 5px;
     width: 300px;
     height: 340px;
     left: 0;
     right: 0;
     top: 130px;
     margin: auto;
-    box-shadow: 1px 1px 0px purple;
+
 }
 
 .img1Articulo1{
@@ -105,6 +107,7 @@
     right: 0;
     top: 10px;
     margin: auto;
+
 
 }
 
@@ -126,30 +129,41 @@
 
 .articulo2Bloque2{
     position: absolute;
-    background-color: rgb(126, 5, 126);
+    background-color:rgba(194, 10, 245, 0.041);
+    border-radius: 5px;
     width: 300px;
     height: 340px;
     left: 0;
     right: 0;
     top: 520px;
     margin: auto;
-    box-shadow: 1px 1px 0px purple;
+
 }
 
 .articulo3Bloque2{
     position: absolute;
-    background-color: rgb(126, 5, 126);
+    background-color:rgba(194, 10, 245, 0.041);
+    border-radius: 5px;
     width: 300px;
     height: 340px;
     left: 0;
     right: 0;
     top: 910px;
     margin: auto;
-    box-shadow: 1px 1px 0px purple;
+
 }
 
 
 /*Bloque3*/
+
+.titulo1Bloque3{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
 
 
 

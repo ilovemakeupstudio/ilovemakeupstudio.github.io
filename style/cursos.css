@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*---Identificadores---*/
+
+#block1{
+    position: relative;
+    height: 750px;
+}
+
+/*---Clases---*/
+
+.article1Block1{
+    position: absolute;
+    background-color: rgb(245, 238, 240);
+    border-radius: 5px;
+    left: 0;
+    right: 0;
+    top: 40px;
+    margin: auto;
+    height: 660px;
+    width: 90%;
+}
+
+.titleArticle1Block1{
+    position: absolute;
+    font-family: 'Acme', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    right: 5px;
+    left: 5px;
+    top: 10px;
+    text-align: center;
+}
+
+.video1Article1Block1{
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: auto;
+    width: 80%;
+    height: 40%;
+    top: 12%; 
+
+}
+
+.text1Article1Block1{
+    position: absolute;
+    top: 360px;
+    left: 10%;
+
+}
+
+.span1Block1{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.span2Block1{
+    color: rgb(54, 168, 19);
+}
