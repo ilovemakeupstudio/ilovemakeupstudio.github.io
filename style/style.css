@@ -169,6 +169,7 @@
 
 .cajaComentarios{
     position: relative;
+    bottom: -60px;
    width: 90%;
    right: 0;
    left: 0;
