@@ -82,7 +82,7 @@
     top: 80px;
     margin: auto;
     width: 80px;
-    border-color: rgb(126, 5, 126);
+    border-color: #cf1170;
  
 }
 
@@ -96,7 +96,7 @@
     right: 0;
     top: 130px;
     margin: auto;
-
+    box-shadow: 0 0 15px #a00050;
 }
 
 .img1Articulo1{
@@ -138,7 +138,7 @@
     right: 0;
     top: 520px;
     margin: auto;
-
+    box-shadow: 0 0 15px #a00050;
 }
 
 .articulo3Bloque2{
@@ -151,7 +151,7 @@
     right: 0;
     top: 910px;
     margin: auto;
-
+    box-shadow: 0 0 15px #a00050;
 }
 
 

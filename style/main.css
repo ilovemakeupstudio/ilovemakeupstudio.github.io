@@ -13,13 +13,6 @@
     z-index: 1000;
 }
 
-#menuFlotante{
-    position: fixed;
-    background-color: blue;
-    width: 100%;
-    top: 89.3%;
-    z-index: 1000;       
-}
 
 
 #pieDePagina{
