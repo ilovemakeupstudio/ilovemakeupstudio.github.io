@@ -8,6 +8,7 @@
 #block1{
     position: relative;
     height: 750px;
+    margin-top: 150px;
 }
 
 /*---Clases---*/
@@ -20,7 +21,7 @@
     right: 0;
     top: 40px;
     margin: auto;
-    height: 660px;
+    height: 675px;
     width: 90%;
 }
 
@@ -59,4 +60,16 @@
 
 .span2Block1{
     color: rgb(54, 168, 19);
+}
+
+/*Caja comentarios*/
+
+.cajaComentarios{
+    position: relative;
+    bottom: -60px;
+   width: 90%;
+   right: 0;
+   left: 0;
+   margin: auto;
+
 }
